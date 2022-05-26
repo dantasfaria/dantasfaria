@@ -6,7 +6,7 @@ My name is Gabriel Dantas, 24 years old 👴, brazilian 🇧🇷, graduated in l
 
 I am a Front-End Developer specilized in React.js 📚
 
-Currently in a Fullstack Engineer Codecademy course and recently finished a React.js course from @RaroAcademy!
+Currently in a Fullstack Engineer Codecademy course 📖 and recently finished a React.js course from @RaroAcademy!
 
 Feel free to check my public repositories! Ask me anything/anytime! 😄
 
