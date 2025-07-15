@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ### Welcome to my profile! 👋
 
 My name is Gabriel Dantas, 27 years old 👨‍💻, Brazilian 🇧🇷,
