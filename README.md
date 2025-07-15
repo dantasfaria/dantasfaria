@@ -2,12 +2,17 @@
 
 ### Welcome to my profile! 👋
 
-My name is Gabriel Dantas, 25 years old 👴, brazilian 🇧🇷, graduated in law 🎓 but found my passion in Tech 💻
+My name is Gabriel Dantas, 27 years old 👨‍💻, Brazilian 🇧🇷,
+I’m a Postgraduate in Software Engineering and a Data Engineer 📊 
 
-I am a Front-End Developer specialized in React.js 📚
+🔧 **Tech Stack & Tools:**  
+- **Languages:** Python, SQL, R  
+- **Big Data & ETL:** Apache Airflow, Spark, Kafka  
+- **Cloud & Storage:** AWS (S3, Redshift), Azure, GCP  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **BI & Visualization:** Power BI, Tableau
+- 
+📚 Currently deepening my skills in distributed systems and real‑time processing  
+🔗 Feel free to explore my public repos or ask me anything, anytime! 😄  
 
-Currently in a Fullstack Engineer Codecademy course 📖 and recently finished a React.js course from @RaroLabs!
-
-Feel free to check my public repositories! Ask me anything/anytime! 😄
-
-Thanks for passing by! 👋
+Thanks for stopping by! 👋  
